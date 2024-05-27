@@ -2,6 +2,11 @@ pipeline {
     agent {
         label 'main'
     }
+
+    triggers {
+    githubPush()
+    }
+    
     stages {
         stage('Sincronización') {
             steps {
