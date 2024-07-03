@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0
+Project("{00000000-0000-0000-0000-000000000000}") = "Advantage Online Shopping Failed Edwin", "Advantage Online Shopping Failed Edwin\Test.tsp", "28AA1203-42F1-4DA4-BEDD-CBCB1D3E4FE4"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Failed Edwin\Test.tsp
+		Keyword = 
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Failed Edwin\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "Advantage Online Shopping Success", "Advantage Online Shopping Success\Test.tsp", "F2E6357E-92CF-4B93-9F92-EE1136B956C3"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Success\Test.tsp
+		Keyword = 
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Success\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "Advantage Online Shopping Success Edwin", "Advantage Online Shopping Success Edwin\Test.tsp", "E7DF5EAE-F233-4568-B310-E1F6E0DC8955"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Success Edwin\Test.tsp
+		Keyword = 
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Success Edwin\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "Prueba", "Prueba\Test.tsp", "3EAF3BCC-CB66-49B4-BB74-D9229E601A2C"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Prueba\Test.tsp
+		Keyword = 
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Prueba\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "Advantage Online Shopping Failed", "Advantage Online Shopping Failed\Test.tsp", "32A98E0F-0CA5-4E89-8AE1-99C5D7B5F725"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\crist\OneDrive\Documentos\Documentos\Documentos\BSCI\ALM Octane\Pruebas\RepositorioCentral\ALM-Octane\Advantage Online Shopping Failed\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		28AA1203-42F1-4DA4-BEDD-CBCB1D3E4FE4.Debug|Any CPU.Build.0 = Debug|Any CPU
+		28AA1203-42F1-4DA4-BEDD-CBCB1D3E4FE4.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		28AA1203-42F1-4DA4-BEDD-CBCB1D3E4FE4.Release|Any CPU.Build.0 = Release|Any CPU
+		28AA1203-42F1-4DA4-BEDD-CBCB1D3E4FE4.Release|Any CPU.ActiveCfg = Release|Any CPU
+		F2E6357E-92CF-4B93-9F92-EE1136B956C3.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F2E6357E-92CF-4B93-9F92-EE1136B956C3.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F2E6357E-92CF-4B93-9F92-EE1136B956C3.Release|Any CPU.Build.0 = Release|Any CPU
+		F2E6357E-92CF-4B93-9F92-EE1136B956C3.Release|Any CPU.ActiveCfg = Release|Any CPU
+		E7DF5EAE-F233-4568-B310-E1F6E0DC8955.Debug|Any CPU.Build.0 = Debug|Any CPU
+		E7DF5EAE-F233-4568-B310-E1F6E0DC8955.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		E7DF5EAE-F233-4568-B310-E1F6E0DC8955.Release|Any CPU.Build.0 = Release|Any CPU
+		E7DF5EAE-F233-4568-B310-E1F6E0DC8955.Release|Any CPU.ActiveCfg = Release|Any CPU
+		3EAF3BCC-CB66-49B4-BB74-D9229E601A2C.Debug|Any CPU.Build.0 = Debug|Any CPU
+		3EAF3BCC-CB66-49B4-BB74-D9229E601A2C.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		3EAF3BCC-CB66-49B4-BB74-D9229E601A2C.Release|Any CPU.Build.0 = Release|Any CPU
+		3EAF3BCC-CB66-49B4-BB74-D9229E601A2C.Release|Any CPU.ActiveCfg = Release|Any CPU
+		32A98E0F-0CA5-4E89-8AE1-99C5D7B5F725.Debug|Any CPU.Build.0 = Debug|Any CPU
+		32A98E0F-0CA5-4E89-8AE1-99C5D7B5F725.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		32A98E0F-0CA5-4E89-8AE1-99C5D7B5F725.Release|Any CPU.Build.0 = Release|Any CPU
+		32A98E0F-0CA5-4E89-8AE1-99C5D7B5F725.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
